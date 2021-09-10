@@ -8,6 +8,8 @@
     "start": "next start"
   },
   "dependencies": {
+    "@contentful/rich-text-react-renderer": "^15.3.3",
+    "contentful": "^8.5.7",
     "next": "10.0.8",
     "react": "17.0.1",
     "react-dom": "17.0.1"

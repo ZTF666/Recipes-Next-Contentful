@@ -1,9 +1,14 @@
-This is the Next.js starter site (and course files) for the Next.js & Contentful tutorial by the Net Ninja.
+# My Recipes
 
-## Getting Started
+<div align="center">
+My journey to learn and master NEXT.JS and its unecessary practices...  😅  
+<p>This is a small recipe like blog made using :</p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/Contentful.svg" alt="Contentful" width="40" height="40"/>
 
-To use the starter project, run the following in a terminal:
+<small> This project is realised with the assistance of the tutorial by
 
-```bash
-npx create-next-app [your-site-name] -e https://github.com/iamshaunjp/next-contentful/tree/lesson-1-starter-site
-```
+[Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+</small>
+
+</div>
